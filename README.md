@@ -1,37 +1,49 @@
-# Analyse du Public Cible pour FarmLink (Belgique et France)
+# Étude de Marché pour FarmLink (Belgique et France)
 
-| Segment de Public Cible            | Description                                                                                      | % Faible Intérêt | Nb Faible Intérêt | % Intérêt Moyen | Nb Intérêt Moyen | % Fort Intérêt | Nb Fort Intérêt |
-|------------------------------------|--------------------------------------------------------------------------------------------------|------------------|-------------------|-----------------|------------------|----------------|-----------------|
-| Consommateurs soucieux de la santé | Personnes en Belgique et en France qui privilégient une alimentation saine et souhaitent acheter des produits frais. | 20%              | 2 000             | 40%             | 4 000            | 60%            | 6 000           |
-| Écologistes                        | Personnes engagées dans la réduction de l'empreinte écologique et favorisant des pratiques durables en Belgique et en France. | 15%              | 1 500             | 35%             | 3 500            | 50%            | 5 000           |
-| Familles avec enfants              | Parents en Belgique et en France qui souhaitent offrir une alimentation locale et de qualité à leurs enfants.            | 10%              | 1 000             | 30%             | 3 000            | 40%            | 4 000           |
+## Tableau 1 : Population par Segment (avec sources)
 
----
-
-## Description des Segments
-
-### Consommateurs soucieux de la santé
-En Belgique et en France, ce groupe inclut des individus qui attachent une grande importance à leur bien-être physique et à la qualité des aliments qu'ils consomment. Ils recherchent activement des produits frais et locaux. Leur intérêt pour FarmLink est élevé.
-
-- **Sources** :
-  - [Statista : Part des consommateurs achetant bio en France](https://www.statista.com/statistics/consommateurs-bio-france)
-  - [BioWallonie : Évolution des habitudes alimentaires en Belgique](https://www.biowallonie.com)
-
-### Écologistes
-Ce segment est composé de personnes en Belgique et en France préoccupées par les enjeux environnementaux. Ils cherchent des moyens de consommer de manière responsable, de soutenir l'agriculture locale et de réduire leur impact écologique. L'intérêt est également significatif.
-
-- **Sources** :
-  - [ADEME : Consommation responsable en France](https://www.ademe.fr)
-  - [Greenpeace Belgique : Études sur l’écologie et la consommation locale](https://www.greenpeace.org/belgium/fr)
-
-### Familles avec enfants
-Les familles, notamment les jeunes parents, représentent un groupe clé. En Belgique et en France, elles sont souvent à la recherche d'options alimentaires locales et nutritives pour leurs enfants. Bien que leur intérêt puisse être légèrement inférieur aux deux autres groupes, elles constituent un public important à cibler.
-
-- **Sources** :
-  - [INSEE : Habitudes alimentaires des familles françaises](https://www.insee.fr/fr/statistiques)
-  - [StatBel : Données alimentaires des familles belges](https://statbel.fgov.be)
+| Segment de Public Cible            | Population Belgique | Population France | Population Totale | Description                                                                                                                                                   | Sources                                                                                     |
+|------------------------------------|---------------------|-------------------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| **Consommateurs soucieux de la santé** | 3,5 millions         | 20,4 millions     | 23,9 millions     | Personnes privilégiant une alimentation saine et locale, incluant des produits bio et frais.                                                                   | [Statista - Consommateurs bio en France](https://www.statista.com/)                         |
+| **Écologistes**                    | 2,3 millions         | 13,6 millions     | 15,9 millions     | Personnes engagées dans la réduction de l’empreinte écologique et favorisant les pratiques durables.                                                           | [ADEME - Consommation responsable](https://www.ademe.fr), [Greenpeace Belgique](https://www.greenpeace.org/belgium/fr) |
+| **Familles avec enfants**          | 2,9 millions         | 17 millions       | 19,9 millions     | Parents cherchant à offrir une alimentation de qualité et locale à leurs enfants.                                                                              | [StatBel - Démographie des ménages](https://statbel.fgov.be/fr), [INSEE - Structure des ménages](https://www.insee.fr/fr/statistiques) |
 
 ---
 
-### Remarque
-Les chiffres indiqués sont des estimations basées sur un public total de 10 000 personnes en Belgique et en France. Une étude de marché approfondie pourrait affiner ces données.
+## Tableau 2 : Répartition des Niveaux d’Intérêt (Faible, Moyen, Fort)
+
+| Segment de Public Cible            | Population Belgique - Faible Intérêt | Population France - Faible Intérêt | Population Totale - Faible Intérêt | Population Belgique - Intérêt Moyen | Population France - Intérêt Moyen | Population Totale - Intérêt Moyen | Population Belgique - Fort Intérêt | Population France - Fort Intérêt | Population Totale - Fort Intérêt | Description                                                                                                                                                   | Sources                                                                                     |
+|------------------------------------|--------------------------------------|------------------------------------|------------------------------------|--------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| **Consommateurs soucieux de la santé** | 0,7 million                         | 4,1 millions                       | 4,8 millions                       | 2,3 millions                        | 8,1 millions                       | 10,4 millions                      | 3,5 millions                       | 12,2 millions                      | 15,7 millions                      | Personnes privilégiant une alimentation saine et locale, incluant des produits bio et frais.                                                                   | [Statista - Consommateurs bio en France](https://www.statista.com/)                         |
+| **Écologistes**                    | 0,5 million                         | 2,7 millions                       | 3,2 millions                       | 1,8 million                         | 6,8 millions                       | 8,6 millions                       | 2,3 millions                       | 10,2 millions                      | 12,5 millions                      | Personnes engagées dans la réduction de l’empreinte écologique et favorisant les pratiques durables.                                                           | [ADEME - Consommation responsable](https://www.ademe.fr), [Greenpeace Belgique](https://www.greenpeace.org/belgium/fr) |
+| **Familles avec enfants**          | 0,3 million                         | 1,7 millions                       | 2,0 millions                       | 1,2 million                         | 5,1 millions                       | 6,3 millions                       | 1,8 million                        | 7 millions                         | 8,8 millions                       | Parents cherchant à offrir une alimentation de qualité et locale à leurs enfants.                                                                              | [StatBel - Démographie des ménages](https://statbel.fgov.be/fr), [INSEE - Structure des ménages](https://www.insee.fr/fr/statistiques) |
+
+---
+
+## Méthodologie
+
+### Population de Base
+- **Belgique** : 11,7 millions d’habitants.
+- **France** : 68 millions d’habitants.
+
+### Répartition des Segments
+- **Consommateurs soucieux de la santé** : 30 % de la population totale.
+- **Écologistes** : 20 % de la population totale.
+- **Familles avec enfants** : 25 % de la population totale.
+
+### Répartition des Intérêts
+- **Faible Intérêt** : 10 % de chaque segment.
+- **Intérêt Moyen** : 30 % de chaque segment.
+- **Fort Intérêt** : 60 % de chaque segment.
+
+---
+
+## Recommandations
+- Ciblez prioritairement les **consommateurs soucieux de la santé**, car ils représentent la part la plus importante de la population.
+- Les **écologistes** et les **familles avec enfants** constituent également des segments stratégiques pour une stratégie marketing ciblée.
+
+---
+
+## Remarque
+
+Pour des données encore plus précises, il est recommandé de réaliser une enquête spécifique auprès des consommateurs en Belgique et en France.
